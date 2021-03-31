@@ -16,3 +16,6 @@ For example, can you add the score functionalities to these too?
 
 <br>
 P.S. The tutorials for Pygame would be uploaded soon, in video(youtube) and blog(dev.to). So please subscribe. Thank you!
+
+<br>
+Make sure that you install Python and Pygame to run these games. For Tic-tac-toe, please install Numpy as well.
