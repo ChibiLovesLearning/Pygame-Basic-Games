@@ -1,6 +1,6 @@
 # Pygame Basic Games
 
-This is the official github of Just Programmer Things.
+This is the official github of Chibi Loves Learning and another github of Pratibha Biswas(@keepbrewing).
 <br>
 The basic code for the following projects have been uploaded(in Pygame):
 1. Drawing Pad
